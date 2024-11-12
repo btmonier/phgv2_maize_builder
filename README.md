@@ -17,10 +17,10 @@ Scripts used to make an example PHG database using V2 methods
    into directory.
 
 4. Run:
-   a. `./src/00_init.sh`
-   b. `./src/01_prepare.sh`
-   c. `./src/02_align.sh`
-   d. `./src/03_load.sh`
+   - `./src/00_init.sh`
+   - `./src/01_prepare.sh`
+   - `./src/02_align.sh`
+   - `./src/03_load.sh`
 
 
 ## Script descriptions
